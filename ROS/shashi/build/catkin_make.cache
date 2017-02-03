@@ -1,0 +1,2 @@
+
+-DCATKIN_DEVEL_PREFIX=/home/shashi/Desktop/HURO-2017/ROS/shashi/devel -DCMAKE_INSTALL_PREFIX=/home/shashi/Desktop/HURO-2017/ROS/shashi/install -G Unix Makefiles
