@@ -1,0 +1,2 @@
+
+-DCATKIN_DEVEL_PREFIX=/home/mrinaal/git/HURO-2017/ROS/mrinaal/devel -DCMAKE_INSTALL_PREFIX=/home/mrinaal/git/HURO-2017/ROS/mrinaal/install -G Unix Makefiles
