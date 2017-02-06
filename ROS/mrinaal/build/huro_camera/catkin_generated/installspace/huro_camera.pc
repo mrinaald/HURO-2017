@@ -1,0 +1,8 @@
+prefix=/home/mrinaal/git/HURO-2017/ROS/mrinaal/install
+
+Name: huro_camera
+Description: Description of huro_camera
+Version: 0.0.1
+Cflags: 
+Libs: -L/home/mrinaal/git/HURO-2017/ROS/mrinaal/install/lib 
+Requires: 

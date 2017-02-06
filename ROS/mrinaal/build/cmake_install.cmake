@@ -117,6 +117,7 @@ endif()
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
   include("/home/mrinaal/git/HURO-2017/ROS/mrinaal/build/gtest/cmake_install.cmake")
+  include("/home/mrinaal/git/HURO-2017/ROS/mrinaal/build/huro_camera/cmake_install.cmake")
 
 endif()
 
