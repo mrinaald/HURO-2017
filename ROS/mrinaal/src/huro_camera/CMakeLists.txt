@@ -123,6 +123,7 @@ include_directories(include ${catkin_INCLUDE_DIRS})
 
 ## Declare a C++ executable
 add_executable(line_follow src/line_follow.cpp)
+add_executable(obj_track src/obj_track.cpp)
 
 ## Add cmake target dependencies of the executable
 ## same as for the library above
@@ -130,6 +131,7 @@ add_executable(line_follow src/line_follow.cpp)
 
 ## Specify libraries to link a library or executable target against
 target_link_libraries(line_follow ${catkin_LIBRARIES})
+target_link_libraries(obj_track ${catkin_LIBRARIES})
 
 #############
 ## Install ##
